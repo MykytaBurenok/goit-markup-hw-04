@@ -133,6 +133,7 @@ img {
   max-width: 1440px;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
 }
 .main-title {
   color: white;
